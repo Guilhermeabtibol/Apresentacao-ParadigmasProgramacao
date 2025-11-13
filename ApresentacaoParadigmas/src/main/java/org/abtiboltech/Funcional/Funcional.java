@@ -1,4 +1,4 @@
-/*
+package org.abtiboltech.Funcional;/*
 Paradigma Funcional
 -------------------
 - Evita modificar variáveis (imutabilidade).

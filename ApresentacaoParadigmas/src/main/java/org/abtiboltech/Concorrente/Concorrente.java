@@ -1,4 +1,4 @@
-/*
+package org.abtiboltech.Concorrente;/*
 Paradigma Concorrente
 ---------------------
 - Permite que partes do código executem ao mesmo tempo.

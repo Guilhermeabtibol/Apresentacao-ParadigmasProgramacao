@@ -1,4 +1,4 @@
-/*
+package org.abtiboltech.Declarativo;/*
 Paradigma Declarativo
 ---------------------
 - Descreve o que deve ser feito, e não como fazer.

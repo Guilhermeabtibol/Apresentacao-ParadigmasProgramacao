@@ -1,4 +1,4 @@
-/*
+package org.abtiboltech.Componentes;/*
 Paradigma Orientado a Componentes
 ---------------------------------
 - Foco em componentes independentes e reutilizáveis.

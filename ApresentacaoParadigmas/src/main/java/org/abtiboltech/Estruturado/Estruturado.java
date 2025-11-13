@@ -1,4 +1,4 @@
-/*
+package org.abtiboltech.Estruturado;/*
 Paradigma Estruturado
 ---------------------
 - Divide o programa em funções bem definidas.

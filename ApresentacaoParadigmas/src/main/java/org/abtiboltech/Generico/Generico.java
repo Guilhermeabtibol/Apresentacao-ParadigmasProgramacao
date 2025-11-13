@@ -1,4 +1,4 @@
-/*
+package org.abtiboltech.Generico;/*
 Paradigma Genérico
 ------------------
 - Permite escrever código independente do tipo de dado.
